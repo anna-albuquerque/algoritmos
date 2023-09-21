@@ -1,2 +1,2 @@
 # algoritmos
-exercícios da disciplina de algoritmos
+exercícios feitos na disciplina de algoritmos
